@@ -1,0 +1,29 @@
+{
+  "source": {
+    "filename": "hero13-engineering-master.mp4",
+    "duration": 8,
+    "width": 1920,
+    "height": 1080,
+    "fps": 24
+  },
+  "desktop": {
+    "count": 96,
+    "width": 1600,
+    "height": 900,
+    "fps": 12,
+    "format": "jpg",
+    "pattern": "/assets/frames/engineering/desktop/frame-{index}.jpg",
+    "totalSizeMB": 14.04,
+    "avgFrameKB": 149.8
+  },
+  "mobile": {
+    "count": 64,
+    "width": 960,
+    "height": 540,
+    "fps": 8,
+    "format": "jpg",
+    "pattern": "/assets/frames/engineering/mobile/frame-{index}.jpg",
+    "totalSizeMB": 3.39,
+    "avgFrameKB": 54.2
+  }
+}
